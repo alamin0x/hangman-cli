@@ -1,5 +1,22 @@
-list_of_animals = ["mouse","rat","bull","bear","parrot","sheep","alligator","cheetah","tiger","snake","wolf","goat","cow","dog"]
-
-list_of_colors = ["Orange","Green","Red","Blue","Yellow","Black","Purple","Pink","Cyan","White"]
-
-list_of_citys = ["Barguna","Barisal","Bhola","Jhalokati","Patuakhali","Pirojpur","Bandarban","Brahmanbaria","Chandpur","Chittagong","Comilla","CoxBazar","Feni","Khagrachhari","Lakshmipur","Noakhali","Rangamati","Dhaka","Faridpur","Gazipur","Gopalganj","Kishoreganj","Madaripur","Manikganj","Munshiganj","Narayanganj","Narsingdi","Rajbari","Shariatpur","Tangail","Bagerhat","Chuadanga","Jessore","Jhenaidah","Khulna","Kushtia","Magura","Meherpur","Narail","Satkhira","Jamalpur","Mymensingh","Netrokona","Sherpur","Bogra","Joypurhat","Naogaon","Natore","ChapaiNawabganj","Pabna","Rajshahi","Sirajganj","Dinajpur","Gaibandha","Kurigram","Lalmonirhat","Nilphamari","Panchagarh","Rangpur","Thakurgaon","Habiganj","Moulvibazar","Sunamganj","Sylhet"]
+categories = {
+    "flowers": ["Rose", "Lily", "Tulip", "Orchid", "Sunflower", "Daisy", "Jasmine", "Marigold", "Lotus"],
+    
+    "colors": ["Red", "Blue", "Green", "Yellow", "Pink", "Purple", "Orange", "Black", "White", "Cyan"],
+    
+    "fruits": ["Apple", "Banana", "Mango", "Grapes", "Orange", "Pineapple", "Strawberry", "Watermelon", "Cherry", "Kiwi"],
+    
+    "animals": ["Lion", "Tiger", "Elephant", "Giraffe", "Zebra", "Kangaroo", "Panda", "Dolphin", "Eagle", "Wolf"],
+    
+    "countries": ["Bangladesh", "India", "USA", "Canada", "Australia", "Japan", "Germany", "France", "Brazil", "Italy"],
+    
+    "vehicles": ["Car", "Bike", "Bus", "Train", "Airplane", "Boat", "Helicopter", "Truck", "Scooter", "Submarine"],
+    
+    "programming_languages": ["Python", "JavaScript", "Java", "C++", "C#", "Ruby", "Swift", "Go", "Kotlin", "PHP"],
+    
+    "planets": ["Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune", "Pluto"],
+    
+    "sports": ["Football", "Cricket", "Basketball", "Tennis", "Badminton", "Hockey", "Golf", "Volleyball", "Rugby", "Chess"],
+    
+    "instruments": ["Guitar", "Piano", "Violin", "Drums", "Flute", "Saxophone", "Trumpet", "Cello", "Harmonica", "Xylophone"]
+    
+}
